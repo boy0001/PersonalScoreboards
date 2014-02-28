@@ -1,0 +1,5 @@
+version: 0.0.1
+title: 'Stats:'
+scoreboard:
+  Money: '{money}'
+  Kills: '{kills}'
